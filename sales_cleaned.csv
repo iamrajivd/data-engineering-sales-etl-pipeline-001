@@ -1,0 +1,6 @@
+order_id,date,product,category,amount
+1,2026-02-01,Laptop,Electronics,1000.0
+2,2026-02-01,Mobile,Electronics,500.0
+3,2026-02-01,Laptop,Electronics,1200.0
+4,2026-02-02,Tablet,Electronics,300.0
+7,2026-02-02,Mobile,Electronics,500.0

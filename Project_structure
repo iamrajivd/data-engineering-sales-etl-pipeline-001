@@ -1,0 +1,19 @@
+Leo_Rajiv_mini_Project_001/
+│
+├── data/
+│   └── sales_raw.csv
+│
+├── output/
+│   ├── sales_cleaned.csv
+│   ├── product_summary.json
+│   └── daily_summary.json
+│
+├── src/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│   └── main.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
